@@ -1,0 +1,8 @@
+{"name": "Ning Homestay", "slug": "NingHomestay", "ink": "a", "body": "ມ",
+ "sign_text": "ໜິ່ງໂຮມສເຕ / Ning HomeStay, Ban Km35 Paksong",
+ "notes": "Soft hand-painted humanist lettering: gently flared ends, elastic curves, compact Lao bowls, slight forward motion. The photo is blurred, so outlines are smoothed more.",
+ "labels": {"ງ": [10], "ິ": [8], "ຮ": [[612, 112, 100, 165]], "ມ": [[712, 110, 128, 170]], "ສ": [[840, 100, 82, 180]],
+            "ເ": [[955, 110, 50, 170]], "ຕ": [[1005, 110, 125, 170]]},
+ "smooth": 3.5,
+ "nib": {"shape": "ellipse", "aspect": 0.7, "angle": 25},
+ "effects": [{"op": "wobble", "amp": 4, "wave": 220}, {"op": "shear", "deg": 4}]}
